@@ -1,0 +1,20 @@
+{
+  "name": "unsplash-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Unsplash Scraper: Scrape Unsplash photos by keyword, collection, topic or profile: image URLs, photographer, likes, EXIF, location, views, downloads. No login needed. JSON, CSV.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "unsplash"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
